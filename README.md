@@ -1,2 +1,2 @@
 # tic--tac-toe-game-using-css-html-and-javascript
-Tic-Tac-Toe is a two-player game where players take turns marking spaces in a 3×3 grid. Player 1 uses ‘X’, and Player 2 uses ‘O’.
+A simple and interactive two-player Tic Tac Toe game built using HTML, CSS, and JavaScript, featuring turn-based gameplay, winner detection, draw detection, and a restart option.
